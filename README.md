@@ -25,6 +25,7 @@ The player can move around a shooting range, shoot an AK-style weapon, control r
 ## Controls
 
 | Key / Input | Action |
+|---|---|
 | `WASD` | Move |
 | `Mouse` | Look around |
 | `Left Mouse Button` | Shoot |
@@ -33,7 +34,6 @@ The player can move around a shooting range, shoot an AK-style weapon, control r
 | `E` | Replenish ammo when looking at ammo box |
 | `T` | Restart training scene |
 | `Esc` | Return to main menu |
-
 ## Ammo System
 
 The weapon starts with:
